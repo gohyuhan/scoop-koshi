@@ -1,16 +1,16 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A terminal multiplexer in Rust — split panes and tabs in one terminal window",
   "homepage": "https://github.com/gohyuhan/koshi",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/gohyuhan/koshi/releases/download/v0.5.0/koshi-v0.5.0-windows-amd64.zip",
-      "hash": "88cad38830de06a8985b601b8fa18a0d5d0b9ff70b993dce33d0e999c8fd4054"
+      "url": "https://github.com/gohyuhan/koshi/releases/download/v0.6.0/koshi-v0.6.0-windows-amd64.zip",
+      "hash": "e802d7f1f1743a811ed15705b4dd9f51ef83d919acb02fe6deed196a2698cc5c"
     },
     "arm64": {
-      "url": "https://github.com/gohyuhan/koshi/releases/download/v0.5.0/koshi-v0.5.0-windows-arm64.zip",
-      "hash": "006460e870d122553360077d4d5bb5ab2c7e5e4aca65b3a8f9100a7067f87b54"
+      "url": "https://github.com/gohyuhan/koshi/releases/download/v0.6.0/koshi-v0.6.0-windows-arm64.zip",
+      "hash": "a21263ab6fd24e3600ac50508cc3a073de9571237cfd9e1aba24b61e680d7faf"
     }
   },
   "bin": "koshi.exe",
